@@ -9,10 +9,11 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import './App.css';
+import apiKeys from './apiKeys'
 
 
 const app = new Clarifai.App({
-  apiKey: '840ea98e3a0c42e095b70ca21519a7b6'
+  apiKey: `${apiKeys[0].clarifaiKey}`
 });
 
 const particlesOptions = {
