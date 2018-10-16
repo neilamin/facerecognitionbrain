@@ -6,6 +6,5 @@ The smart-brain directory contains the front-end of the application and smart-br
 
 ## Preview
 
-![alt text](https://s3.amazonaws.com/face-recognition-screenshots/sign+in.png)
-![alt text](https://s3.amazonaws.com/face-recognition-screenshots/main.png)
-
+![alt text](https://s3.amazonaws.com/face-recognition-screenshots/face-recognition-sign-in.png)
+![alt text](https://s3.amazonaws.com/face-recognition-screenshots/face-recognition-main.png)
