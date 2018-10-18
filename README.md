@@ -4,6 +4,10 @@ This project was created as my final project for Udemy's "The Complete Web Devel
 
 The smart-brain directory contains the front-end of the application and smart-brain-api contains the back-end. 
 
+## Link
+
+Site can be found fully deployed at: https://face-recognition-brain-neil.herokuapp.com/
+
 ## Preview
 
 ![alt text](https://s3.amazonaws.com/face-recognition-screenshots/face-recognition-sign-in.png)
